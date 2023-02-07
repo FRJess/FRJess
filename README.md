@@ -72,3 +72,25 @@
 
 </p>
 
+
+<h2 align="center">⚡️ Stats ⚡️</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=frjess&theme=synthwave&border=61dafb&hide_border=true" alt="frjess" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=frjess&show_icons=true&theme=synthwave&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frjess&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=frjess&theme=synthwave&bg_color=2b213a&hide_border=true" width="100%"/>
+</p>
