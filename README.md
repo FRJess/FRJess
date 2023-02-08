@@ -11,7 +11,7 @@
   📚 I have learned to code with <a href="https://boolean.careers">Boolean</a>, a tech academy. <br/>
 </p>
 
-<h3 align="left">🔗 Ho to contact me?</h3>
+<h3 align="left">🔗 How to contact me?</h3>
 <p>
   📧 Send an <a href="mailto:jessica.tartaglia@icloud.com">email</a>.<br/>
   ⌨️ Find me on <a href="https://discordapp.com/users/310158115842686976">Discord</a>!<br/>
