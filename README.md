@@ -1,21 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hmdApHQb2hdfdKu6jg/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Ciao 👋, sono Jessica</h1>
+<h1 align="center">Hi 👋, I'm Jessica</h1>
 
-<h3 align="left">👩🏻 Chi sono?</h3>
+<h3 align="left">👩🏻 More about me</h3>
 <p>
-  👩🏻‍💻 Baby dev che non si stanca mai di imparare 📖.<br/>
-  🏠 Vivo a <a href="https://www.google.com/maps?q=roma">Roma</a>, in Italia.<br/>
-  💻 Dev web alla ricerca di una prima esperienza lavorativa.<br/>
-  📚 Ho fatto una formazione con <a href="https://boolean.careers">Boolean</a> dove ho imparato tanto! <br/>
+  👩🏻‍💻 Baby dev who loves to learn new things every day 📖.<br/>
+  🏠 Living in <a href="https://www.google.com/maps?q=roma">Roma</a>, Italy.<br/>
+  💻 Full-Stack web dev looking for a first job in this world.<br/>
+  📚 I have learned to code with <a href="https://boolean.careers">Boolean</a>, a tech academy. <br/>
 </p>
 
-<h3 align="left">🔗 Mi vuoi contattare ?</h3>
+<h3 align="left">🔗 Ho to contact me?</h3>
 <p>
-  📧 Mandami una <a href="mailto:jessica.tartaglia@icloud.com">mail</a>.<br/>
-  ⌨️ O ritrovami su <a href="https://discordapp.com/users/310158115842686976">Discord</a>!<br/>
-  📈 Se vuoi conoscere un po' meglio il mio percorso puoi andare a vedere il mio profilo <a href="https://www.linkedin.com/in/jessica-tartaglia-jt/">Linkedin.</a>
+  📧 Send an <a href="mailto:jessica.tartaglia@icloud.com">email</a>.<br/>
+  ⌨️ Find me on <a href="https://discordapp.com/users/310158115842686976">Discord</a>!<br/>
+  📈 If you want to know better my journey you can check my <a href="https://www.linkedin.com/in/jessica-tartaglia-jt/">Linkedin</a> profile.
 </p>
 
 
