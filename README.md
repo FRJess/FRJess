@@ -92,7 +92,7 @@
     </a>
   </div>
   
-  <br>
+  <br><br>
  <div align=center>
     <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=frjess&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&hide_border=true" width=100%/>
  </div>
