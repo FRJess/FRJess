@@ -84,13 +84,16 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=frjess&show_icons=true&theme=synthwave&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frjess&title_color=e2e9ec&text_color=e5289e&icon_color=ef8539&bg_color=2b213a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frjess&theme=synthwave&bg_color=2b213a&hide_border=true&langs_count=8&layout=compact&border_color=61dafb" />
     </a>
   </div>
-  <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=frjess&theme=synthwave&bg_color=2b213a&hide_border=true" width="100%"/>
+  <br>
+ <div align=center>
+    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=frjess&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&hide_border=true" width=100%/>
+ </div>
 </p>
