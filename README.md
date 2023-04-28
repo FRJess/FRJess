@@ -8,7 +8,7 @@
   👩🏻‍💻 Junior web dev who loves to learn new things every day 📖.<br/>
   🏠 Living in <a href="https://www.google.com/maps?q=roma">Roma</a>, Italy.<br/>
   💻 Full-Stack web dev looking for a first job in this world.<br/>
-  📚 I have learned to code with <a href="https://boolean.careers">Boolean</a>, a tech academy. <br/>
+  📚 I am currently learning <a href="https://www.typescriptlang.org">TypeScript</a>. <br/>
 </p>
 
 <h3 align="left">🔗 How to contact me?</h3>
