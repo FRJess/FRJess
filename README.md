@@ -7,7 +7,7 @@
 <p>
   👩🏻‍💻 Junior web dev who loves to learn new things every day 📖.<br/>
   🏠 Living in <a href="https://www.google.com/maps?q=roma">Roma</a>, Italy.<br/>
-  💻 Full-Stack web dev looking for a new experiences.<br/>
+  💻 Front-end web dev looking for a new opportunites<br/>
   📚 I am currently learning <a href="https://www.angular.io">Angular</a>. <br/>
 </p>
 
