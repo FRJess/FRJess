@@ -3,9 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/FRJess/FRJess/blob/master/devcard.svg" width="400" alt="Jessica's Dev Card"/></a>
-
-
 <h3 align="left">👩🏻 More about me</h3>
 <p>
   👩🏻‍💻 Junior web dev who loves to learn new things every day 📖.<br/>
@@ -73,7 +70,12 @@
 
 
 <h2 align="center">⚡️ Stats ⚡️</h2>
-<br>
+<p align=center>
+  <div align=center>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/FRJess/FRJess/blob/9fbed034c0abda64e737994472df1053a0217a4f/devcard.svg" width="300" alt="Jessica's Dev Card"/></a>
+  </div>
+</p>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -93,6 +95,8 @@
   
   <br><br>
  <div align=center>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=frjess&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&color=e5289e&line=e5289e&point=ef8539&hide_border=true" width=100%/>
+   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img width=100% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=frjess&title_color=e2e9ec&icon_color=ef8539&text_color=e5289e&bg_color=2b213a&color=e5289e&line=e5289e&point=ef8539&hide_border=true" />
+  </a>
  </div>
 </p>
