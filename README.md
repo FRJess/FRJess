@@ -3,6 +3,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Jessica</h1>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/FRJess/FRJess/blob/master/devcard.svg" width="400" alt="Jessica's Dev Card"/></a>
+
+
 <h3 align="left">👩🏻 More about me</h3>
 <p>
   👩🏻‍💻 Junior web dev who loves to learn new things every day 📖.<br/>
