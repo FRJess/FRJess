@@ -8,7 +8,7 @@
   👩🏻‍💻 Junior web dev who loves to learn new things every day 📖.<br/>
   🏠 Living in <a href="https://www.google.com/maps?q=roma">Roma</a>, Italy.<br/>
   💻 Front-end web dev looking for a new opportunites<br/>
-  📚 I am currently learning <a href="https://www.angular.io">Angular</a>. <br/>
+  📚 I am currently improving my <a href="https://www.angular.io">Angular</a> knowledge. <br/>
 </p>
 
 <h3 align="left">🔗 How to contact me?</h3>
@@ -49,6 +49,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  </a> 
   
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
@@ -59,7 +63,7 @@
   </a> 
   
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
