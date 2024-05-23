@@ -76,7 +76,7 @@
 <h2 align="center">⚡️ Stats ⚡️</h2>
 <p align=center>
   <div align=center>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/FRJess/FRJess/blob/9fbed034c0abda64e737994472df1053a0217a4f/devcard.svg" width="300" alt="Jessica's Dev Card"/></a>
+    <a href="https://app.daily.dev/fr_jess"><img src="https://api.daily.dev/devcards/v2/eAJrigEeCN2edV92fAsM2.png?type=default&r=h29" width="356" alt="Jessica's Dev Card"/></a>
   </div>
 </p>
 
