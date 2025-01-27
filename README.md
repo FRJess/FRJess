@@ -7,7 +7,7 @@
 <p>
   👩🏻‍💻 Front-end Developer with a passion for creating seamless user experiences.<br/>
   🏠 Based in <a href="https://www.google.com/maps?q=roma">Roma</a>, Italy.<br/>
-  💻 Currently working with Angular to build and optimize web applications.<br/>
+  💻 Currently working with Angular or React to build and optimize web applications.<br/>
   🚀 Experienced in integrating new features and continuously enhancing design and performance.<br>
   📚 Always learning and improving, especially in JavaScript and modern front-end frameworks.<br/>
 </p>
