@@ -46,6 +46,11 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img width="40" alt="angular" src="https://github.com/FRJess/FRJess/assets/101200265/32b0c2a5-b13f-4607-8ca7-bfa2831001a9">
   </a> 
+
+  <a href="https://react.dev" target="_blank" rel="noreferrer"> 
+    <img width="40" alt="react" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  </a> 
+
   
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
@@ -75,13 +80,13 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats">
-      <img width=390 src="https://streak-stats.demolab.com?user=frjess&theme=synthwave&date_format=j%20M%5B%20Y%5D&hide_border=true&border_radius=8" alt="Streak stats" />
+      <img width=390 src="https://github-readme-streak-stats-seven-azure.vercel.app?user=frjess&theme=synthwave&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="Streak stats"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=frjess&show_icons=true&theme=synthwave&hide_border=true&border_radius=8" alt="GitHub stats"/>
     </a>
-  </div>
-  
+  </div>  
+
   <br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
