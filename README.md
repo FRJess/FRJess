@@ -7,9 +7,9 @@
 <p>
   👩🏻‍💻 Front-end Developer with a passion for creating seamless user experiences.<br/>
   🏠 Based in <a href="https://www.google.com/maps?q=roma">Roma</a>, Italy.<br/>
-  💻 Currently working with Angular or React to build and optimize web applications.<br/>
+  💻 Currently working with Angular and React to build and optimize web applications.<br/>
   🚀 Experienced in integrating new features and continuously enhancing design and performance.<br>
-  📚 Always learning and improving, especially in JavaScript and modern front-end frameworks.<br/>
+  📚 Always learning and improving, especially in Typescript and modern front-end frameworks.<br/>
 </p>
 
 <h3 align="left">🔗 How to contact me?</h3>
@@ -24,48 +24,49 @@
 <p align="left"> 
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="git" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
   </a> 
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> 
+  </a>   
   
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/ />
   </a> 
-  
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
   </a> 
 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img width="40" alt="angular" src="https://github.com/FRJess/FRJess/assets/101200265/32b0c2a5-b13f-4607-8ca7-bfa2831001a9">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40" />
+
   </a> 
 
   <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img width="40" alt="react" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40" />
   </a> 
 
   
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
   
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
 
 </p>
