@@ -79,21 +79,21 @@
 </p>
 
 <p align=center>
-  <div align=center>
+  <!-- <div align=center>
     <a href="https://git.io/streak-stats">
       <img width=390 src="https://github-readme-streak-stats-seven-azure.vercel.app?user=frjess&theme=synthwave&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="Streak stats"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=frjess&show_icons=true&theme=synthwave&hide_border=true&border_radius=8" alt="GitHub stats"/>
     </a>
-  </div>  
+  </div>   -->
 
   <br>
-  <div align=center>
+  <!-- <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=390 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frjess&hide_progress=true&theme=synthwave&bg_color=2b213a&hide_border=true&langs_count=8&layout=compact&border_color=61dafb&border_radius=8" alt="Most used languages" />
     </a>
-  </div>
+  </div> -->
   
   <br>
  <div align=center>
